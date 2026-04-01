@@ -1,0 +1,19 @@
+[
+    {
+        "id": "4d7ada5adcc265ea",
+        "type": "debug",
+        "z": "tab1",
+        "name": "veličina1",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 840,
+        "y": 160,
+        "wires": []
+    }
+]
